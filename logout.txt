@@ -1,1 +1,3 @@
+logout v1
 logout v2
+logout v3
